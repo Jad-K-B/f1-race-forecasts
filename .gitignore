@@ -1,0 +1,10 @@
+# Forecast-only repository. Never copy the research repository or raw evidence here.
+data/
+sources/
+models/
+*.pdf
+*.blob
+*.joblib
+*.pkl
+.env
+__pycache__/
